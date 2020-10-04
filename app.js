@@ -20,7 +20,7 @@ function buildTeam() {
     prompt([{
         type: 'list',
         name: 'direction',
-        message: 'Would you like to add an employees',
+        message: 'Would you like to add an employee?',
         choices: ['Engineer', 'Manager', 'Intern', 'Done'],
     }, ]).then(function(res) {
         switch (res.direction) {
@@ -38,7 +38,6 @@ function buildTeam() {
         }
     });
 }
-
 function askManager() {
     prompt([{
             type: 'input',
@@ -137,7 +136,7 @@ function askIntern() {
         buildTeam();
     });
 }
-askManger()
+askManger();
 
 function createTeam() {
     if (!fs.existsSync(OUTPUT_DIR)) {
@@ -146,8 +145,6 @@ function createTeam() {
     }
     fs.writeFileSync(outputPath, render(teamMembers), "UTF8");
 }
-
-
 
 
 // After you have your html, you're now ready to create an HTML file using the HTML

@@ -30,7 +30,7 @@ so that I have quick access to emails and GitHub profiles
 - [Demo](#Demo)
 - [Contributors](#Contributors)
 - [Test](#Test)
-- [Repository](#Repository)
+- [Technology](#Technology)
 
 
 ## Installation
@@ -43,11 +43,11 @@ so that I have quick access to emails and GitHub profiles
 
 ## Usage
 
-> In your command line, run node index and follow the prompts to generate a README within node.
+> In your command line, run node index and follow the prompts to generate a a new employee card within node.
 
 ## Demo
 
-![animated demo of app](README-Demo.gif)
+<!-- ![animated demo of app](README-Demo.gif) -->
 
 ## Contributors
 
@@ -57,6 +57,10 @@ so that I have quick access to emails and GitHub profiles
 
 > N/A
 
-## Repository
+## Technology
 
-- [GitHub Portfolio](https://github.com/mnilou)
+* Javascript
+* Node.js
+* HTML
+* Inquirer API
+* Jest API
