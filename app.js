@@ -136,8 +136,6 @@ function askIntern() {
         buildTeam();
     });
 }
-askManger();
-
 function createTeam() {
     if (!fs.existsSync(OUTPUT_DIR)) {
         fs.mkdirSync(OUTPUT_DIR)
@@ -145,7 +143,7 @@ function createTeam() {
     }
     fs.writeFileSync(outputPath, render(teamMembers), "UTF8");
 }
-
+askManager();
 
 // After you have your html, you're now ready to create an HTML file using the HTML
 // returned from the `render` function. Now write it to a file named `team.html` in the

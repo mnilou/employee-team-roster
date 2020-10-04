@@ -9,7 +9,7 @@
 
 > The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
-As a manager
+> As a manager
 I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 
@@ -42,8 +42,8 @@ so that I have quick access to emails and GitHub profiles
     * npm install inquirer
 
 ## Usage
-
-> In your command line, run node index and follow the prompts to generate a a new employee card within node.
+    
+  > In your command line, run node index and follow the prompts to generate a a new employee card within node.
 
 ## Demo
 
@@ -55,12 +55,12 @@ so that I have quick access to emails and GitHub profiles
 
 ## Test
 
-> N/A
+  N/A
 
 ## Technology
 
-> * Javascript
-> * Node.js
-> * HTML
-> * Inquirer API
-> * Jest API
+ * Javascript
+ * Node.js 
+ * HTML
+ * Inquirer API
+ * Jest API
