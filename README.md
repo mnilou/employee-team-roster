@@ -59,8 +59,8 @@ so that I have quick access to emails and GitHub profiles
 
 ## Technology
 
-* Javascript
-* Node.js
-* HTML
-* Inquirer API
-* Jest API
+> * Javascript
+> * Node.js
+> * HTML
+> * Inquirer API
+> * Jest API
