@@ -16,9 +16,7 @@ so that I have quick access to emails and GitHub profiles
 
 ## Screenshots
 
-<img src= "Assets\10-OOP_02-Homework_Assets_10-OOP-homework-demo-1.png" alt = "Screenshot of Team Page">
-
-<img src= "Assets\10-OOP_02-Homework_Assets_10-OOP-homework-demo-2.png" alt = "Screenshot of Employee Page">
+<img src= "Assets\team-profile-screenshoot.jpg" alt = "Screenshot of Team Page">
 
 ## Table of contents
 
