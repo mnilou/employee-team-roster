@@ -33,6 +33,8 @@ function buildTeam() {
             case 'Intern':
                 askIntern();
                 break;
+            case 'Done':
+                console.log("Your team roster is complete!");    
             default:
                 createTeam();
         }
