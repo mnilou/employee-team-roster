@@ -42,7 +42,7 @@
 
 ## Demo
 
-![animated demo of app](Assets\team-roster-demo.gif)
+![animated demo of app](Assets\roster-demo.gif)
 
 ## Contributors
 
