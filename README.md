@@ -50,7 +50,7 @@
 
 ## Test
 
-N/A
+Run `npm run test` to run all tests. This project uses [Jest](https://jestjs.io/) as a test runner.
 
 ## Technology
 
